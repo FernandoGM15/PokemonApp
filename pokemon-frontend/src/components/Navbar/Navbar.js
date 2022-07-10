@@ -17,7 +17,7 @@ const Navbar = () => {
                                     Pokemons
                                 </a>
                                 <ul className="dropdown-menu dropdown-menu-dark" aria-labelledby="navbarDropdown">
-                                    <li><Link className="dropdown-item text-light" to="/pokemons">Pokemon's List</Link></li>
+                                    <li><Link className="dropdown-item text-light" to="/pokemons">Pokemon List</Link></li>
                                     <li><Link className="dropdown-item text-light" to="/pokemons/create">Create Pokemón</Link></li>
                                 </ul>
                             </li>
